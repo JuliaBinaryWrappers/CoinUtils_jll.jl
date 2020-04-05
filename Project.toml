@@ -1,6 +1,6 @@
 name = "CoinUtils_jll"
 uuid = "be027038-0da8-5614-b30d-e42594cb92df"
-version = "2.10.14+1"
+version = "2.11.4+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

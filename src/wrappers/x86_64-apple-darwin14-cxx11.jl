@@ -9,7 +9,7 @@ LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
 
 # Relative path to `libCoinUtils`
-const libCoinUtils_splitpath = ["lib", "libCoinUtils.3.10.14.dylib"]
+const libCoinUtils_splitpath = ["lib", "libCoinUtils.3.11.4.dylib"]
 
 # This will be filled out by __init__() for all products, as it must be done at runtime
 libCoinUtils_path = ""
