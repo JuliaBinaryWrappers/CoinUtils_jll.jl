@@ -7,6 +7,7 @@ using CompilerSupportLibraries_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "PATH"
+LIBPATH_default = ""
 
 # Relative path to `libCoinUtils`
 const libCoinUtils_splitpath = ["bin", "libCoinUtils-3.dll"]

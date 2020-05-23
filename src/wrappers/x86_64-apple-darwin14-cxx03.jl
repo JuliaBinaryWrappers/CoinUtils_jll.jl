@@ -7,6 +7,7 @@ using CompilerSupportLibraries_jll
 PATH = ""
 LIBPATH = ""
 LIBPATH_env = "DYLD_FALLBACK_LIBRARY_PATH"
+LIBPATH_default = "~/lib:/usr/local/lib:/lib:/usr/lib"
 
 # Relative path to `libCoinUtils`
 const libCoinUtils_splitpath = ["lib", "libCoinUtils.3.11.3.dylib"]
