@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header(OpenBLAS32_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libCoinUtils,
-        "lib/libCoinUtils.3.11.3.dylib",
+        "lib/libCoinUtils.3.11.4.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
