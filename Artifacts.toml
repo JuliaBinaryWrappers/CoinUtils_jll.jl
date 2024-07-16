@@ -1,280 +1,280 @@
 [[CoinUtils]]
 arch = "aarch64"
-git-tree-sha1 = "e1691cf282be92b57d0f92e8e6badbf6611bd25c"
+git-tree-sha1 = "5fb729719032c86ae2e56addc28e0ae3b7a8e1a8"
 os = "macos"
 
     [[CoinUtils.download]]
-    sha256 = "186d0277ee7b1c80fae3b33a20bfc3d1ccff5a6568576477e8629fa603c9560b"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.aarch64-apple-darwin.tar.gz"
+    sha256 = "329a8161a48cfbef5610f6cce6c7c0cf81d5f0a946a75fdcbdf1402ea675a014"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.aarch64-apple-darwin.tar.gz"
 [[CoinUtils]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bff627c042a4c506599c0617496898bd35af4a70"
+git-tree-sha1 = "37e4e7b7c64c105ee289499c3305066144496309"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "1156f9535138b6841cbba593f37ab91536e1d0932875521cf819c6cde51b6e1d"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.aarch64-linux-gnu-cxx03.tar.gz"
+    sha256 = "dd46b7667d98ba26ecd946e3a2f715ccb264bb681e2064dd02cbfc19662089b9"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.aarch64-linux-gnu-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "edbc7c5eeabb5e7e12cf5bdcdf72727cf6835704"
+git-tree-sha1 = "cbcb91a8aae998936832fdb87aadd0a8df252219"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "c1c57bad09da1e2a7eb954f9ccad805ce2931ee81c2838d98b6b5379e7e52bbf"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5b4b759a55912eb3adb957e7515ca03352ab8ab204bef28af366535d601cbee4"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.aarch64-linux-gnu-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ccdaa28911cb4471f42b602d59bbdd76e359869"
+git-tree-sha1 = "af55c1ec8e92859986a1b6cf8db11f120e495012"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "e372381d9187b97e1c4a25b8b99891f3b38e1b52b660795ba9262d126145d14d"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.aarch64-linux-musl-cxx03.tar.gz"
+    sha256 = "a6779f09ab1040c557302f9dd1b0fea647490fefee2326e37b860778ba328bcc"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.aarch64-linux-musl-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ddb62c555f5f31fee71f358c4d013608fd1341c8"
+git-tree-sha1 = "fad81cb2824c4be60122a6cf9a47a81af92f2b93"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "9aaa342bc66e985782d384f59357e0d5b611342650fea783740f4d37381cbbb7"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "26918e1609c2981bcc2b00c79769256f186c6eb473d766d7fad85aba67fe24b5"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.aarch64-linux-musl-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2623352ad1ed08d78ea1f33108c26f1e306d951b"
+git-tree-sha1 = "dc1eff256ede19e5f464954be482383ec7c1963c"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "0c952f45b5d92892220c4d94f62912ebd5b0a2480b35b91ae7bc0ebf8e0ddab9"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "f91523763f506875ba0f8a1b0bbce9eec393c4c55b01828b9a5e0143e3b89bd1"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "16efffad43464b55921763d29323f4b4807230cd"
+git-tree-sha1 = "21bf1f61cd1315b09e07375d0757f9419a718332"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "20c05da41bf2deb60c71bf47a07411d007aa14d99b713c09a07d3349bc612f3b"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "685b0ef854116670c08fe947b1d57f5f2a8799a07046372751148e7d301f7d97"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8ba23ea4ace7398dd315c382509d97ddd3c854a2"
+git-tree-sha1 = "a63ebee7c4f0b4207a1fad7d458c0b1a0f950757"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "0cd30e10dc5b33f9b5c499893fa92fad0d949d67983ae3d84ceef762124e96dc"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.armv6l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "bab6e78eca726bf654875c4732272fd115fe2143de35c4d04965a2a37b669d32"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e82036ae6c42ffc1a21f283328e996146fcb6037"
+git-tree-sha1 = "b79e9f8ff56695fd42b4b92ad7c7d428249d3413"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "6572e95681522cd4892030b074cb308b2a3a97706ed0d62bd216921021842806"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "4d768932b3526a24d391e0833839244b8e064223506797d9ed219fda868b8567"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "bb077670185e7bb99f4e6b1dd4d2b80f7b65b575"
+git-tree-sha1 = "9484e3931d7811bf540f06fe68cdb55cf0547fcf"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "56746e9e667bcad7b5071f73e8425405661913a8c42fb2e02689cbf6c5db945d"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    sha256 = "cd6126338e75ea3c90d71fa7db264e9360c70abbf605cdab109b1d12b92b3016"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3604928a3f5a71378709d67a71ce85be6f356862"
+git-tree-sha1 = "04b7fad44aec555253d711504495e7f77d2e07f5"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "655a525775f3af8225dde349a8aa772ad7e9b4375b25de3d26fb39b849140015"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "99097b6d5fbe5c0e300baedfe6afbada736dbea8dbfa7c56578d5254d7dd0172"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "38a644c85ede5135860c90e862260ed934e84be0"
+git-tree-sha1 = "23c44337fc5e9b0c127f4566ecdb06d5350ad80f"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "c3ec097d2743419e195eec027626fc0c4a187df09a28704eb0e8c78d375ec172"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.armv7l-linux-musleabihf-cxx03.tar.gz"
+    sha256 = "14f564c3987a7d702231114293cad7c33f1e8f38325c13068195bb0628069f62"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9e8e2d3918360f28eafc6332c9f1e8550bdc193b"
+git-tree-sha1 = "ae8a29a37c866dab5cc580393f22957c6f5696e2"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "9500d3c052f90c4738e2965bea88f11bf7778b919aa09acbbc69f4aa116c89c6"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "6bf6210c6cb16a1d93c25883009127622a594b37c4b6a4db616da9717365b1a5"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c4d1e7fb56fea64738e3ebe2cc5cd3eec01ecfb5"
+git-tree-sha1 = "1dd3d6da421f606716aab9158dfd6614cc3f38dd"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "2464673aa9872aba442e7fd4a58be349d501b3468e35971c84e56cae100901a5"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.i686-linux-gnu-cxx03.tar.gz"
+    sha256 = "1f7219917d0db1e5a2bf6dcb50b26ac2666caaae1e89178bff54236b9dee949a"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.i686-linux-gnu-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4917047da3343b755c862cd73155dec166d89f1d"
+git-tree-sha1 = "2990a6eb88639fe3abcd1e31d9ba2c40ebc62314"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "e9c66f4c138f0d4cdbc26e82f35e940e57f1d6f599428585e3d772f33ab0f009"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "8dc5904ccdf227dd60b902dca740d279690bd9b783f91799d457543f77ca5ecb"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.i686-linux-gnu-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "257f0901764dadbe28c71233ab75a7c5efe60178"
+git-tree-sha1 = "d9fb8e311d1f488302c4bf1e84cee3cf5faa2cd3"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "d155b84bdcd7d3721c550f953048d5f14e7a7ae1b1851a3bfc58f6a4ad6d82cd"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.i686-linux-musl-cxx03.tar.gz"
+    sha256 = "a86a0927dd5a404b3e14c4b96c79a4c7baecb60e17ef4c8085b1816228c56d01"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.i686-linux-musl-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c8637ee3bca6c39618551278db49ba43f2860c1b"
+git-tree-sha1 = "e9b1b5ecac3c2f22bd38fc7214f8517b1a434040"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "40fc207b1cd59b01d1ac716b08e81c65c4c1bb61e66a30103b26475c575496fd"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "fa15eef25abb833f91c02b504afc83e108224e2efe5f21fde5dc5557c22140c3"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.i686-linux-musl-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "54457c2b7d826ee781b101d9ef5664976c816b2c"
+git-tree-sha1 = "9c74138cffbea4966ccb6cf9bb96b64a3b94ce99"
 os = "windows"
 
     [[CoinUtils.download]]
-    sha256 = "a6a7f94cccd34b1f59f449dca9af1db83cd64b3f8ca1365213021b96e17ae050"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.i686-w64-mingw32-cxx03.tar.gz"
+    sha256 = "73853614ae576ac9b944f00efb4bea108af0325bb217b5f95711d6a196d0880d"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.i686-w64-mingw32-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "045d8a7a488fe6335cc901ec3941b6bd611ef797"
+git-tree-sha1 = "c556d1f61151b753327868fc678bbecefb193b22"
 os = "windows"
 
     [[CoinUtils.download]]
-    sha256 = "77521849e97773deed84070c3c7f86837b296477b64c41c28a1fcdd28255a13a"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "8554eccd06d331a02437f7456605d5654116fba5cc48c1d5d1308957962f6964"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.i686-w64-mingw32-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ade40f32f8b9895279e864cf858a8cbac27512f1"
+git-tree-sha1 = "254c3b2bc6b32ffd295eee47e350007261fe1d7e"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "9b164c852875940871b83cf4fa0cdb15893b46faae01ef12a7963f23c80695cb"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.powerpc64le-linux-gnu-cxx03.tar.gz"
+    sha256 = "b07a6472ee23be51bbd440fa83f625afa09ea3949902e136cb1c80e9d6744f81"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ca3bf4845d205ccaa42b1bcc00d9512db317ee63"
+git-tree-sha1 = "e2c6511c4cf318b4d02690fb2c3654a085ddc109"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "fb01897a93c6b0d7ec20ed4cb729ef094841840fddb2d4c383ac2802f6717d23"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "616dcc7f9d16af735abdfbc01cf69b3f74cd7d4ca2fddac69ef9df523e0ad3f3"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "x86_64"
-git-tree-sha1 = "6c25776fb219eb3eca8607342c89cb6a629d2057"
+git-tree-sha1 = "89898af753ae1cfcd0b7e30d74b9c8c566721fc0"
 os = "macos"
 
     [[CoinUtils.download]]
-    sha256 = "ded26afa321f0b9e39298f7ddbca216fbbd2a800e364db1673d44dfb7187a9ec"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.x86_64-apple-darwin.tar.gz"
+    sha256 = "8320564db2b36c9dcbaf934ff4bce6fe44137a3b40ef5d979d3a8f4819e44500"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.x86_64-apple-darwin.tar.gz"
 [[CoinUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d26e184989645fab70278db7dd477c398d5d6422"
+git-tree-sha1 = "dfe81b2abcf37d1360b465b53db2dbaea64c730a"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "cba45c3bbe7289e0b883ce990ac28de6f4d2a9e7fdfdb166ed932bdc261ad41b"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.x86_64-linux-gnu-cxx03.tar.gz"
+    sha256 = "3bbaa5fa9e2e99d5cacabd2dec3b16e0856862529b252ee70f0c1b9ad63c871a"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.x86_64-linux-gnu-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8d83fe73ba055aad133d3fb55d1f278320d3954f"
+git-tree-sha1 = "e9f6ca7a737655dcb1f96167a3af43a1e3bc8744"
 libc = "glibc"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "29cd88860fab219c494236af2a2fc95182194990085da9315ad040d28ebefc8b"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "e8b4245d1e6e45d3b4ffb8da5d04c10414d85c1f5ecbc1d7a1169dcba0cdd0e2"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.x86_64-linux-gnu-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "70c0e6e0784e84d7330e15a48e7e84a2252a104c"
+git-tree-sha1 = "70d232cd0585c78bd298af76ba4ff82252053591"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "c87a9c0b69d8a706082c8e0014bd136e84e817368c8c25f4df9026a8161b126e"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.x86_64-linux-musl-cxx03.tar.gz"
+    sha256 = "45bc00661e8eaba798f2a77421dee370e9c2b027fc8590ab7db1d23ea899e41f"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.x86_64-linux-musl-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f7e11d83a166e98f11196057a05f70c8f2c6898b"
+git-tree-sha1 = "73da9ca76134094ee9d65fe86ee39c15f9aae7ee"
 libc = "musl"
 os = "linux"
 
     [[CoinUtils.download]]
-    sha256 = "9693d1fb867a328f530f6dc5303fb9aae9f38904334ad3ec88ffce7674c5c886"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "5741e89354428f34afd6e765fb8a50e14b457f4790066e4184a700fc411f3113"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.x86_64-linux-musl-cxx11.tar.gz"
 [[CoinUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "31e209909585557812df28ba3a435f9c9f89bab4"
+git-tree-sha1 = "45aeee1400c3cc0588a8420807e458f53ca5fe6b"
 os = "windows"
 
     [[CoinUtils.download]]
-    sha256 = "d1e5cf5786887231ba51cc8ba7474c93e280098cb8816cb21504e73d3ce53949"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.x86_64-w64-mingw32-cxx03.tar.gz"
+    sha256 = "19370932a74a95eb036ccf21a1a4c233d2851c7d657b78c8696ca58df829af86"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.x86_64-w64-mingw32-cxx03.tar.gz"
 [[CoinUtils]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dc15757db69e0025bc08cc2c9626efdaa1c3c28d"
+git-tree-sha1 = "e85eb5bfc3e8922b36f8faec008d17dbd51c8d9d"
 os = "windows"
 
     [[CoinUtils.download]]
-    sha256 = "376667f33c00e76ea913549cf3230deb1d4757f312031443e4b4522c5c6b2cf2"
-    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.600+0/CoinUtils.v200.1100.600.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "4920819e554a7e5bc15ed0ab0bf4126e37666da77fe48c3e8f97d9720ddc1cd4"
+    url = "https://github.com/JuliaBinaryWrappers/CoinUtils_jll.jl/releases/download/CoinUtils-v200.1100.1100+0/CoinUtils.v200.1100.1100.x86_64-w64-mingw32-cxx11.tar.gz"
