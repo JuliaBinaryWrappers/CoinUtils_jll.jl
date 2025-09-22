@@ -9,7 +9,7 @@ function __init__()
     JLLWrappers.@generate_init_header(libblastrampoline_jll, CompilerSupportLibraries_jll)
     JLLWrappers.@init_library_product(
         libCoinUtils,
-        "lib/libCoinUtils.3.11.11.dylib",
+        "lib/libCoinUtils.3.11.12.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
