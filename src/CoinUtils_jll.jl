@@ -5,5 +5,5 @@ using Base: UUID
 import JLLWrappers
 
 JLLWrappers.@generate_main_file_header("CoinUtils")
-JLLWrappers.@generate_main_file("CoinUtils", UUID("be027038-0da8-5614-b30d-e42594cb92df"))
+JLLWrappers.@generate_main_file("CoinUtils", Base.UUID("be027038-0da8-5614-b30d-e42594cb92df"))
 end  # module CoinUtils_jll
